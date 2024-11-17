@@ -1,0 +1,12 @@
+{
+  "lsp": {
+    "pyright": {
+      "settings": {
+        "python": {
+          "pythonPath": ".env/bin/python",
+          "venvPath": "."
+        }
+      }
+    }
+  }
+}
